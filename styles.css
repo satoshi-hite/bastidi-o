@@ -6,5 +6,15 @@
     color: #D7C0AE;
 }
 .bg-primary{
-    color: #B7C4CF;
+    background-color: #B7C4CF ;
+}
+.text-secundary{
+    color: #EEE3CB;
+}
+.text-center{
+    text-align: center;
+ color: #EEE3CB;
+}
+.text-right{
+    text-align: right; 
 }
